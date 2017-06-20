@@ -7,6 +7,6 @@ list
 -c
 
 ## Another Header
-some text
-some more text
+some text\n
+some more text \n
 and even some more text
